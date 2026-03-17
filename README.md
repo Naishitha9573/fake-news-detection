@@ -56,7 +56,9 @@ Fake-News-Detection/
 ├── requirements.txt
 └── README.md
 ```
-
+Dataset
+    https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+    
 ---
 
 ## 💡 Use Case
